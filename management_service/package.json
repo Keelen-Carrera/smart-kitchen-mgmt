@@ -20,6 +20,7 @@
     "management_service": "file:"
   },
   "devDependencies": {
+    "minimist": "0.0.8",
     "@eslint/js": "^9.21.0",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
